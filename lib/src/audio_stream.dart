@@ -1,1 +1,1 @@
-enum AudioStream { system, music }
+enum AudioStream { system, music, notification }
